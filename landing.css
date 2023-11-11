@@ -1,0 +1,36 @@
+body {
+    height: 100vh;
+    width: 100%;
+    background-image: url("broken-white-background-texture.jpg");
+    background-color: #cccccc;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   }
+
+   h1 {
+    font-family: 'Caveat', cursive;
+    font-size: 90px;
+    font-weight: 900;
+    text-shadow:
+    0.05em 0 rgb(0, 0, 0),
+    0 0.05em black,
+    -0.05em 0 black,
+    0 -0.05em black,
+    -0.05em -0.05em black,
+    -0.05em 0.05em black,
+    0.05em -0.05em black,
+    
+   }
+   .special-paragraph {
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+        text-shadow:
+            0 0.05em black,
+            -0.05em 0 rgb(54, 54, 54),
+            0 -0.05em rgb(54, 54, 54),
+            -0.05em -0.05em rgb(84, 84, 84),
+            -0.05em 0.05em rgb(89, 89, 89),
+            0.05em -0.05em rgb(255, 255, 255),
+            0.05em 0.05em rgb(255, 255, 255);
+    }
