@@ -73,7 +73,7 @@
 
 <body>Hello everyone and welcome.
   This project is about creating a personal webpage. I will be showcasing who I am
-  and what skill I have. I hope to expand this page over time to highlight new and exciting projects
+  and what skills I have. I hope to expand this page over time to highlight new and exciting projects
   I have worked on. 
 </body>
 
@@ -129,28 +129,14 @@ This is an example of how to list things you need to use the software and how to
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [Adding more projects I've completed.]
+- [Search functionality.] 
+- [Redesigned layout with advanced features.] 
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Alex-Turpin/Portfolio/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
