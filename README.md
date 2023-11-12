@@ -162,9 +162,10 @@ Project Link: [https://github.com/Alex-Turpin/Portfolio](https://github.com/Alex
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* I want to think my professors for teaching me what I know.
+They have allowed me to make it this far and I look forward to finishing their classes.
+* Professor John Williams
+* Dr. Abel Sanchez
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
