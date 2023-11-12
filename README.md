@@ -172,9 +172,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@Turpin1066](https://twitter.com/turpin1066) - ninnen1066@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Alex-Turpin/Portfolio](https://github.com/Alex-Turpin/Portfolio)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
