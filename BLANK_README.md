@@ -30,23 +30,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/Alex-Turpin/Portfolio">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">My Portfolio</h3>
 
   <p align="center">
-    project_description
+    This project is the build for my personal webpage!
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Alex-Turpin/Portfolio"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/Alex-Turpin/Portfolio">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/Alex-Turpin/Portfolio/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/Alex-Turpin/Portfolio/issues">Request Feature</a>
   </p>
 </div>
 
@@ -83,9 +83,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<body>Hello everyone and welcome.
+  This project is about creating a personal webpage. I will be showcasing who I am
+  and what skill I have. I hope to expand this page over time to highlight new and exciting projects
+  I have worked on. 
+</body>
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+
+<li> Github_username : https://github.com/Alex-Turpin </li>
+<li> Repo_name : https://github.com/Alex-Turpin/Portfolio </li>
+<li> Follow Me on X : www.twitter.com/turpin1066 </li>
+<li> Connect with me on: https://www.linkedin.com/in/alexander-turpin-7a71b26b </li>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,14 +101,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
+
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
