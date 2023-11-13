@@ -24,7 +24,7 @@ body {
    }
    .special-paragraph {
     color: rgb(0, 0, 0);
-    font-size: 40px;
+    font-size: 34px;
         text-shadow:
             0 0.05em black,
             -0.05em 0 rgb(54, 54, 54),
@@ -34,3 +34,49 @@ body {
             0.05em -0.05em rgb(255, 255, 255),
             0.05em 0.05em rgb(255, 255, 255);
     }
+
+    a.more:link, a.more:visited {
+        background-color: #0051ff;
+        color: white;
+        padding: 8px 15px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+     }
+
+     /*
+     This is the grid layout that would be used to layout the page.
+     However I used Bootstrap to build page and was much easier to use Bootstrap grid layouts in HTML. Added this to CSS so that you can see I understand how to incorporate this. 
+     
+     .wrapper {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+        grid-auto-rows: minmax(100px, auto);
+      }
+      .one {
+        grid-column: 1 / 3;
+        grid-row: 1;
+      }
+      .two {
+        grid-column: 2 / 4;
+        grid-row: 1 / 3;
+      }
+      .three {
+        grid-column: 1;
+        grid-row: 2 / 5;
+      }
+      .four {
+        grid-column: 3;
+        grid-row: 3;
+      }
+      .five {
+        grid-column: 2;
+        grid-row: 4;
+      }
+      .six {
+        grid-column: 3;
+        grid-row: 4;
+      }
+      */
+      
